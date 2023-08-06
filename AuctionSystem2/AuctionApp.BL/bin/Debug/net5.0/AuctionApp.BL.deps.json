@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AuctionApp.BL/1.0.0": {
+        "dependencies": {
+          "AuctionApp.Common": "1.0.0"
+        },
+        "runtime": {
+          "AuctionApp.BL.dll": {}
+        }
+      },
+      "AuctionApp.Common/1.0.0": {
+        "runtime": {
+          "AuctionApp.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AuctionApp.BL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AuctionApp.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

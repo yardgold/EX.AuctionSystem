@@ -1,0 +1,12 @@
+C:\Users\George Weah\source\repos\AuctionSystem2\AuctionApp.Common\obj\Debug\net5.0\AuctionApp.Common.csproj.AssemblyReference.cache
+C:\Users\George Weah\source\repos\AuctionSystem2\AuctionApp.Common\obj\Debug\net5.0\AuctionApp.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\George Weah\source\repos\AuctionSystem2\AuctionApp.Common\obj\Debug\net5.0\AuctionApp.Common.AssemblyInfoInputs.cache
+C:\Users\George Weah\source\repos\AuctionSystem2\AuctionApp.Common\obj\Debug\net5.0\AuctionApp.Common.AssemblyInfo.cs
+C:\Users\George Weah\source\repos\AuctionSystem2\AuctionApp.Common\obj\Debug\net5.0\AuctionApp.Common.csproj.CoreCompileInputs.cache
+C:\Users\George Weah\source\repos\AuctionSystem2\AuctionApp.Common\bin\Debug\net5.0\AuctionApp.Common.deps.json
+C:\Users\George Weah\source\repos\AuctionSystem2\AuctionApp.Common\bin\Debug\net5.0\AuctionApp.Common.dll
+C:\Users\George Weah\source\repos\AuctionSystem2\AuctionApp.Common\bin\Debug\net5.0\AuctionApp.Common.pdb
+C:\Users\George Weah\source\repos\AuctionSystem2\AuctionApp.Common\obj\Debug\net5.0\AuctionApp.Common.dll
+C:\Users\George Weah\source\repos\AuctionSystem2\AuctionApp.Common\obj\Debug\net5.0\refint\AuctionApp.Common.dll
+C:\Users\George Weah\source\repos\AuctionSystem2\AuctionApp.Common\obj\Debug\net5.0\AuctionApp.Common.pdb
+C:\Users\George Weah\source\repos\AuctionSystem2\AuctionApp.Common\obj\Debug\net5.0\ref\AuctionApp.Common.dll
